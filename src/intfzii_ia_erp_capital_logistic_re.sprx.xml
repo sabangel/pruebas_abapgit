@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>INTF</OBJECT>
+     <OBJ_NAME>ZII_IA_ERP_CAPITAL_LOGISTIC_RE</OBJ_NAME>
+     <OBJECT_M>INTF</OBJECT_M>
+     <OBJ_NAME_M>ZII_IA_ERP_CAPITAL_LOGISTIC_RE</OBJ_NAME_M>
+     <HASH_ID>BA4F7A3BBE6A503505D2E64B1BABE18D63A7C400</HASH_ID>
+     <ID>&lt;portType&gt; ia_ERP_CapitalLogisticReturnFile_SI urn:comfama.com.co:capital:capitallogisticreturnfile urn:comfama.com.co:capital:capitallogisticreturnfile</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>portType</IFR_TYPE>
+     <IFR_NAME>ia_ERP_CapitalLogisticReturnFile_SI</IFR_NAME>
+     <IFR_NSPCE>urn:comfama.com.co:capital:capitallogisticreturnfile</IFR_NSPCE>
+     <IFR_GNSPCE>urn:comfama.com.co:capital:capitallogisticreturnfile</IFR_GNSPCE>
+     <GEN_VERS>0006</GEN_VERS>
+     <PREFIX>Z</PREFIX>
+     <CATEGORY>ifmmessif</CATEGORY>
+     <DIRECTION>I</DIRECTION>
+     <X-ML_NSPCE>urn:comfama.com.co:capital:capitallogisticreturnfile</X-ML_NSPCE>
+     <X-ML_NAME>ia_ERP_CapitalLogisticReturnFile_SI</X-ML_NAME>
+     <FURTHER_DATA>&lt;asx:abap xmlns:asx=&quot;http://www.sap.com/abapxml&quot; version=&quot;1.0&quot;&gt;&lt;asx:values&gt;&lt;DATA&gt;&lt;SOAP_APPL&gt;urn:sap-com:soap:application:esr:server:710&lt;/SOAP_APPL&gt;&lt;/DATA&gt;&lt;/asx:values&gt;&lt;/asx:abap&gt;</FURTHER_DATA>
+     <VERSION_ID>cced1a454fdc11e9c41b00000042825e</VERSION_ID>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>INTF</OBJECT>
+     <OBJ_NAME>ZII_IA_ERP_CAPITAL_LOGISTIC_RE</OBJ_NAME>
+     <OBJECT1>CLAS</OBJECT1>
+     <OBJ_NAME1>ZCL_IA_ERP_CAPITAL_LOGISTIC_RE</OBJ_NAME1>
+     <OBJECT2>CLAS</OBJECT2>
+     <OBJ_NAME2>ZCL_IA_ERP_CAPITAL_LOGISTIC_RE</OBJ_NAME2>
+     <ID>&lt;CLIM&gt; ia_ERP_CapitalLogisticReturnFile_SI urn:comfama.com.co:capital:capitallogisticreturnfile urn:comfama.com.co:capital:capitallogisticreturnfile</ID>
+     <IFR_TYPE>CLIM</IFR_TYPE>
+     <IFR_NAME>ia_ERP_CapitalLogisticReturnFile_SI</IFR_NAME>
+     <IFR_TEXT>Interfaz de entrada</IFR_TEXT>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <R3_TYPE>CLAS</R3_TYPE>
+     <R3_NAME>ZCL_IA_ERP_CAPITAL_LOGISTIC_RE</R3_NAME>
+     <R3_TEXT>Interfaz de entrada</R3_TEXT>
+    </item>
+    <item>
+     <OBJECT>INTF</OBJECT>
+     <OBJ_NAME>ZII_IA_ERP_CAPITAL_LOGISTIC_RE</OBJ_NAME>
+     <OBJECT1>INTF</OBJECT1>
+     <OBJ_NAME1>ZII_IA_ERP_CAPITAL_LOGISTIC_RE</OBJ_NAME1>
+     <OBJECT2>INTF</OBJECT2>
+     <OBJ_NAME2>ZII_IA_ERP_CAPITAL_LOGISTIC_RE</OBJ_NAME2>
+     <ID>&lt;portType&gt; ia_ERP_CapitalLogisticReturnFile_SI urn:comfama.com.co:capital:capitallogisticreturnfile urn:comfama.com.co:capital:capitallogisticreturnfile</ID>
+     <IFR_TYPE>portType</IFR_TYPE>
+     <IFR_NAME>ia_ERP_CapitalLogisticReturnFile_SI</IFR_NAME>
+     <IFR_TEXT>Interfaz de entrada</IFR_TEXT>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>INTF</R3_TYPE>
+     <R3_NAME>ZII_IA_ERP_CAPITAL_LOGISTIC_RE</R3_NAME>
+     <R3_TEXT>Interfaz de entrada</R3_TEXT>
+     <CATEGORY>ifmmessif</CATEGORY>
+     <DIRECTION>I</DIRECTION>
+    </item>
+    <item>
+     <OBJECT>INTF</OBJECT>
+     <OBJ_NAME>ZII_IA_ERP_CAPITAL_LOGISTIC_RE</OBJ_NAME>
+     <OBJECT1>METH</OBJECT1>
+     <OBJ_NAME1>IA_ERP_CAPITAL_LOGISTIC_RETURN</OBJ_NAME1>
+     <OBJECT2>METH</OBJECT2>
+     <OBJ_NAME2>IA_ERP_CAPITAL_LOGISTIC_RETURN</OBJ_NAME2>
+     <ID>&lt;operation&gt; ia_ERP_CapitalLogisticReturnFile_SI &lt;portType&gt; ia_ERP_CapitalLogisticReturnFile_SI urn:comfama.com.co:capital:capitallogisticreturnfile urn:comfama.com.co:capital:capitallogisticreturnfile</ID>
+     <IFR_TYPE>operation</IFR_TYPE>
+     <IFR_NAME>ia_ERP_CapitalLogisticReturnFile_SI</IFR_NAME>
+     <IFR_TEXT>Interfaz de entrada</IFR_TEXT>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>METH</R3_TYPE>
+     <R3_NAME>IA_ERP_CAPITAL_LOGISTIC_RETURN</R3_NAME>
+     <R3_TEXT>Interfaz de entrada</R3_TEXT>
+     <R3_SEQNUM>000001</R3_SEQNUM>
+     <DIRECTION>I</DIRECTION>
+    </item>
+    <item>
+     <OBJECT>INTF</OBJECT>
+     <OBJ_NAME>ZII_IA_ERP_CAPITAL_LOGISTIC_RE</OBJ_NAME>
+     <OBJECT1>METH</OBJECT1>
+     <OBJ_NAME1>IA_ERP_CAPITAL_LOGISTIC_RETURN</OBJ_NAME1>
+     <OBJECT2>PAIM</OBJECT2>
+     <OBJ_NAME2>INPUT</OBJ_NAME2>
+     <OBJECT_R>TABL</OBJECT_R>
+     <OBJ_NAME_R>ZERP_CAPITAL_LOGISTIC_RETURN_2</OBJ_NAME_R>
+     <ID>&lt;input&gt; input &lt;operation&gt; ia_ERP_CapitalLogisticReturnFile_SI &lt;portType&gt; ia_ERP_CapitalLogisticReturnFile_SI urn:comfama.com.co:capital:capitallogisticreturnfile urn:comfama.com.co:capital:capitallogisticreturnfile</ID>
+     <IFR_TYPE>PartInput</IFR_TYPE>
+     <IFR_NAME>input</IFR_NAME>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>PAIM</R3_TYPE>
+     <R3_NAME>INPUT</R3_NAME>
+     <R3_SEQNUM>000001</R3_SEQNUM>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>

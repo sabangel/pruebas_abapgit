@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TTYP</OBJECT>
+     <OBJ_NAME>ZERP_CAPITAL_LOGISTIC_RETU_TAB</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>ZERP_CAPITAL_LOGISTIC_RETURN_1</OBJ_NAME_M>
+     <HASH_ID>69E4774D4A5832C8B5858DC0F715F6DC44B713B2</HASH_ID>
+     <ID>TableOf&lt;type&gt; Tabla &lt;element&gt; Tabla &lt;type&gt; Root &lt;element&gt; Root &lt;type&gt; ERP_CapitalLogisticReturnFile_DT urn:comfama.com.co:capital:capitallogisticreturnfile urn:comfama.com.co:capital:capitallogisticreturnfile</ID>
+     <IFR_TYPE>TableOftype</IFR_TYPE>
+     <IFR_NAME>Tabla</IFR_NAME>
+     <IFR_NSPCE>urn:comfama.com.co:capital:capitallogisticreturnfile</IFR_NSPCE>
+     <IFR_GNSPCE>urn:comfama.com.co:capital:capitallogisticreturnfile</IFR_GNSPCE>
+     <GEN_VERS>0005</GEN_VERS>
+     <PREFIX>Z</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TTYP</OBJECT>
+     <OBJ_NAME>ZERP_CAPITAL_LOGISTIC_RETU_TAB</OBJ_NAME>
+     <OBJECT1>TTYP</OBJECT1>
+     <OBJ_NAME1>ZERP_CAPITAL_LOGISTIC_RETU_TAB</OBJ_NAME1>
+     <OBJECT2>TTYP</OBJECT2>
+     <OBJ_NAME2>ZERP_CAPITAL_LOGISTIC_RETU_TAB</OBJ_NAME2>
+     <OBJECT_R>TABL</OBJECT_R>
+     <OBJ_NAME_R>ZERP_CAPITAL_LOGISTIC_RETURN_F</OBJ_NAME_R>
+     <ID>TableOf&lt;type&gt; Tabla &lt;element&gt; Tabla &lt;type&gt; Root &lt;element&gt; Root &lt;type&gt; ERP_CapitalLogisticReturnFile_DT urn:comfama.com.co:capital:capitallogisticreturnfile urn:comfama.com.co:capital:capitallogisticreturnfile</ID>
+     <IFR_TYPE>TableOftype</IFR_TYPE>
+     <IFR_NAME>Tabla</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TTYP</R3_TYPE>
+     <R3_NAME>ZERP_CAPITAL_LOGISTIC_RETU_TAB</R3_NAME>
+     <R3_TEXT>Proxy Table Type (generated)</R3_TEXT>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>
